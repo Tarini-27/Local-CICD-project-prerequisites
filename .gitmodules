@@ -1,0 +1,3 @@
+[submodule "Local-CI-CD-project"]
+	path = Local-CI-CD-project
+	url = git@github.com:Tarini-27/Local-CI-CD-project.git
